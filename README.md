@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-👉 About me:
-Full Stack Engineer with 4+ years of experience in React Js and Node Js. I have good experience with Python too and have successfully coordinated and lead multiple projects.
+I'm a Full Stack Engineer with 4+ years of experience in React Js and Node Js. I have good experience with Python too and have successfully coordinated and lead multiple projects.
 
 👉 Quick highlights
 - 4+ years of professional experience in the software industry
