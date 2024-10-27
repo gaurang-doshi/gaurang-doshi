@@ -9,13 +9,13 @@ I'm a Full Stack Engineer with over 5 years of experience in React.js and Node.j
 - Worked extensively in Agile Scrum environments.
 - Passionate about open source, striving to write clean and elegant code.
 
-💼 How Can I Help You?
+## 💼 How Can I Help You?
 I have strong expertise in both web and mobile app development. I am always eager to assist anyone looking to build or optimize their applications, offering guidance on best practices and architectural decisions.
 
-🌟 What I Love to Share
+## 🌟 What I Love to Share
 Ever wondered how web and mobile apps really work? Or what the key considerations are when creating an efficient, user-friendly application? I love discussing these topics and breaking down complex concepts for anyone interested in learning more.
 
 I also write about technology trends and share insights on optimization, performance improvements, and code readability. Check out my articles on Medium: @gaurang063
 
-🤝 Let's Connect!
+## 🤝 Let's Connect!
 I'm always open to discussing new ideas, collaborating on projects, or simply having a chat about technology. Feel free to reach out – I'm just a message away!
